@@ -2,29 +2,36 @@
   {
     "name": "Composer",
     "ring": "adopt",
-    "quadrant": "tools",
+    "quadrant": "Ferramentas",
     "isNew": "TRUE",
     "description": "Although the idea of dependency management ..."
   },
   {
     "name": "Canary builds",
     "ring": "trial",
-    "quadrant": "techniques",
+    "quadrant": "Tecnologias",
     "isNew": "FALSE",
     "description": "Many projects have external code dependencies ..."
   },
   {
     "name": "Apache Kylin",
     "ring": "assess",
-    "quadrant": "platforms",
+    "quadrant": "Plataformas",
     "isNew": "TRUE",
     "description": "Apache Kylin is an open source analytics solution ..."
   },
   {
     "name": "JSF",
     "ring": "hold",
-    "quadrant": "languages & frameworks",
+    "quadrant": "Linguagens e Frameworks",
     "isNew": "FALSE",
     "description": "We continue to see teams run into trouble using JSF ..."
+  },
+  {
+    "name": "Portal do Desenvolvedor",
+    "ring": "trial",
+    "quadrant": "Ferramentas",
+    "isNew": "FALSE",
+    "description": "É um portal que serve para o desenvolvedor da UFRN ter todo o aparato que precisa, como documentação, trilhas de estudo, cursos, e muito mais.\n Foi desenvolvido pela equipe FERA/STI."
   }
 ]
